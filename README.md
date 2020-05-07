@@ -11,4 +11,5 @@ Purpose - Familiarization with the GitHub Environment
 Rev 1
 
   Added C Code
-  Tested C Code
+  
+  Tested C Code (Windows 10 / Notepad++ / TCC)
